@@ -1,0 +1,27 @@
+#navbar{
+    flex-direction: column;
+    padding-top:0.5rem ;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    height: 80px;
+    margin: 0;
+}
+#home img{
+    width: px;
+    height: auto;
+    border-radius: 100%;
+}
+#navbar ul li a{
+   font-size: 0.75rem;
+   text-align: center;
+    }
+    #esnaflar .items{
+        
+        flex-direction: column;
+        
+    }
+    #esnaflar .items .item{
+        
+       width: 100%;
+        
+    }
